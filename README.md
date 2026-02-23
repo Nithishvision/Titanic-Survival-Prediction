@@ -19,3 +19,19 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 ## Kaggle Profile
  https://www.kaggle.com/lotusrisenithish
+
+## Exploratory Data Analysis
+
+### Survival Count
+
+![Survival](survival_count.png)
+
+### Survival by Gender
+
+![Gender](survival_gender.png)
+
+## Model Interpretation
+
+### Feature Importance
+
+![Feature](feature_importance.png)
