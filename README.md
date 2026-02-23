@@ -22,7 +22,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 ## Exploratory Data Analysis
 
-### Survival Count
+### Survival Count 0 as male 1 as Female
 
 ![Survival](survival_count.png)
 
