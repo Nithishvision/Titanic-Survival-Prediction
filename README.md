@@ -1,4 +1,4 @@
-# Titanic_Survival_Nithish.ipynb
+ Titanic Survival Prediction 
 Problem Statement
    The goal of this project is to predict passenger survival on the Titanic using machine learning techniques.
 Steps Performed
